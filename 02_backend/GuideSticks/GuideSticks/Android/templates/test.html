@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>服务器测试页面</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .status {
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .info {
+            background-color: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+        .server-info {
+            text-align: left;
+            margin: 20px 0;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>服务器状态测试</h1>
+    
+    <div class="status success">
+        <h2>✅ 服务器运行正常</h2>
+        <p>Django服务器已成功启动并正在运行</p>
+    </div>
+
+    <div class="server-info">
+        <h3>服务器信息：</h3>
+        <ul>
+            <li><strong>服务器时间：</strong> {{ current_time }}</li>
+            <li><strong>Django版本：</strong> 4.1.7</li>
+            <li><strong>Python版本：</strong> 3.9.21</li>
+        </ul>
+    </div>
+
+    <div class="status info">
+        <h3>可用接口：</h3>
+        <ul style="list-style: none; padding: 0;">
+            <li><a href="/admin/">管理后台</a></li>
+            <li><a href="/android/identify/">图像识别接口</a></li>
+            <li><a href="/android/emergency/">紧急呼叫接口</a></li>
+            <li><a href="/android/receive/">接收数据接口</a></li>
+            <li><a href="/android/register/">注册接口</a></li>
+            <li><a href="/android/login/">登录接口</a></li>
+            <li><a href="/android/base64/">图片Base64接口</a></li>
+            <li><a href="/android/test/">测试页面</a></li>
+        </ul>
+    </div>
+</body>
+</html> 

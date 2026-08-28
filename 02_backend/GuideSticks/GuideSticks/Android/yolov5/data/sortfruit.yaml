@@ -1,0 +1,13 @@
+train: ../datasets/study/sortfruit/images/train2017
+val: ../datasets/study/sortfruit/images/val2017
+#test: ../datasets/study/test/images
+
+nc: 5
+names: ['apple','carambola','pear', 'plum', 'tomatoe']
+
+roboflow:
+  workspace: uni-itoj5
+  project: apple_detect-ciamx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/uni-itoj5/apple_detect-ciamx/dataset/1

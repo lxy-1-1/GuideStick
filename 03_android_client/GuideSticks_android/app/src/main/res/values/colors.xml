@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#006C67</color>
+    <color name="primary_dark">#004F4B</color>
+    <color name="primary_light">#BFE9E4</color>
+    <color name="accent">#F2B544</color>
+    <color name="background">#F6F8F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#E8EFED</color>
+    <color name="outline">#B8C5C2</color>
+    <color name="text_primary">#17201E</color>
+    <color name="text_secondary">#4D5D59</color>
+    <color name="success">#168C5A</color>
+    <color name="success_container">#D8F4E5</color>
+    <color name="warning">#9A6300</color>
+    <color name="warning_container">#FFF0C7</color>
+    <color name="danger">#B3261E</color>
+    <color name="danger_dark">#8C1D18</color>
+    <color name="danger_container">#FFDAD6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#4D5D59</color>
+    <color name="light_gray">#E8EFED</color>
+    <color name="chat_user_container">#DDF3EC</color>
+    <color name="chat_user_text">#123F36</color>
+    <color name="chat_assistant_container">#F1F5F4</color>
+    <color name="chat_assistant_outline">#D5DFDC</color>
+    <color name="assistant_suggestion">#F0F4F3</color>
+    <color name="assistant_input">#F1F4F3</color>
+</resources>

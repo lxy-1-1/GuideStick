@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="match_parent" android:layout_height="wrap_content" app:elevation="0dp">
+        <com.google.android.material.appbar.MaterialToolbar android:id="@+id/toolbar" style="@style/Widget.GuideSticks.Toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:title="@string/profile_title" />
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:paddingBottom="88dp" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingBottom="24dp">
+            <LinearLayout android:id="@+id/profileInfoPanel" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="@color/surface" android:focusable="true" android:gravity="center_vertical" android:orientation="horizontal" android:padding="20dp">
+                <com.google.android.material.imageview.ShapeableImageView android:id="@+id/ivAvatar" android:layout_width="72dp" android:layout_height="72dp" android:importantForAccessibility="no" android:padding="14dp" android:src="@drawable/ic_person" app:shapeAppearanceOverlay="@style/CircleImageView" />
+                <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_weight="1" android:importantForAccessibility="noHideDescendants" android:orientation="vertical">
+                    <TextView android:id="@+id/tvProfileUsername" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/not_logged_in" android:textColor="@color/text_primary" android:textSize="22sp" android:textStyle="bold" />
+                    <TextView android:id="@+id/tvProfileEmail" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/email_not_set" android:textColor="@color/text_secondary" android:textSize="16sp" />
+                    <TextView android:id="@+id/tvEmergencyPhone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/contact_not_set" android:textColor="@color/text_secondary" android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView android:id="@+id/headingAccountSafety" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="20dp" android:layout_marginTop="24dp" android:layout_marginEnd="20dp" android:text="@string/account_and_safety" android:textColor="@color/text_secondary" android:textSize="15sp" android:textStyle="bold" />
+            <LinearLayout android:id="@+id/btnEmergencySetting" android:layout_width="match_parent" android:layout_height="64dp" android:layout_marginTop="8dp" android:background="@color/surface" android:clickable="true" android:contentDescription="@string/set_emergency_contact" android:focusable="true" android:gravity="center_vertical" android:orientation="horizontal" android:paddingHorizontal="20dp">
+                <ImageView android:layout_width="28dp" android:layout_height="28dp" android:importantForAccessibility="no" android:src="@drawable/ic_emergency" />
+                <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_weight="1" android:importantForAccessibility="no" android:text="@string/set_emergency_contact" android:textColor="@color/text_primary" android:textSize="17sp" />
+            </LinearLayout>
+            <TextView android:id="@+id/headingAppSettings" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="20dp" android:layout_marginTop="24dp" android:layout_marginEnd="20dp" android:text="@string/app_settings" android:textColor="@color/text_secondary" android:textSize="15sp" android:textStyle="bold" />
+            <LinearLayout android:id="@+id/btnSettings" android:layout_width="match_parent" android:layout_height="64dp" android:layout_marginTop="8dp" android:background="@color/surface" android:clickable="true" android:contentDescription="@string/app_settings" android:focusable="true" android:gravity="center_vertical" android:orientation="horizontal" android:paddingHorizontal="20dp">
+                <ImageView android:layout_width="28dp" android:layout_height="28dp" android:importantForAccessibility="no" android:src="@drawable/ic_settings" />
+                <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_weight="1" android:importantForAccessibility="no" android:text="@string/app_settings" android:textColor="@color/text_primary" android:textSize="17sp" />
+            </LinearLayout>
+            <LinearLayout android:id="@+id/btnAbout" android:layout_width="match_parent" android:layout_height="64dp" android:layout_marginTop="1dp" android:background="@color/surface" android:clickable="true" android:contentDescription="@string/about_us" android:focusable="true" android:gravity="center_vertical" android:orientation="horizontal" android:paddingHorizontal="20dp">
+                <ImageView android:layout_width="28dp" android:layout_height="28dp" android:importantForAccessibility="no" android:src="@drawable/ic_info" app:tint="@color/primary" />
+                <TextView android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_weight="1" android:importantForAccessibility="no" android:text="@string/about_us" android:textColor="@color/text_primary" android:textSize="17sp" />
+            </LinearLayout>
+            <com.google.android.material.button.MaterialButton android:id="@+id/btnLogout" style="@style/Widget.GuideSticks.Button.Outlined" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="20dp" android:layout_marginTop="28dp" android:layout_marginEnd="20dp" android:text="@string/logout" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <com.google.android.material.bottomnavigation.BottomNavigationView android:id="@+id/bottomNavigationView" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_gravity="bottom" android:background="@color/surface" app:itemIconTint="@color/primary" app:itemTextColor="@color/text_primary" app:menu="@menu/bottom_nav_menu" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

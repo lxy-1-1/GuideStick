@@ -1,0 +1,223 @@
+{"kind":"deck","id":"pr/gd5eop","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"标题幻灯片","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"subtitle","type":"subtitle","textPreview":"单击此处编辑母版副标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"标题和内容","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"节标题","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"两栏内容","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"比较","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"3","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"5","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"仅标题","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"空白","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"内容与标题","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"2","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"图片与标题","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"picture","type":"picture"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"标题和竖排文字","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"竖排标题与文本","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"body","type":"body","textPreview":"单击此处编辑母版文本样式 | 二级 | 三级 | 四级 | 五级"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout12.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout13.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout14.xml","name":"自定义版式","placeholders":[{"name":"title","type":"title","textPreview":"单击此处编辑母版标题样式"},{"name":"dateTime","type":"dateTime"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"视觉感知与云端大模型","textShapes":1}
+{"kind":"shape","id":"sh/ul4vaxgb","slide":1,"name":"矩形: 圆角 11","bbox":[405.22,181.37,874.78,311.15]}
+{"kind":"textbox","id":"sh/fu94fe98","slide":1,"name":"文本框 7","text":"视觉感知与云端大模型\n智能导盲辅助系统","textPreview":"视觉感知与云端大模型 | 智能导盲辅助系统","textChars":19,"textLines":2,"bbox":[418.12,195.98,802.91,155.85]}
+{"kind":"image","id":"im/kr6xgnu5","slide":1,"name":"图片 10","bbox":[0,0,1280,731.43]}
+{"kind":"image","id":"im/bmxw3ido","slide":1,"name":"图片 3","bbox":[0,0,405.22,720]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"视障用户需要的不只是物理探路，还需要连续获取交通信号、当前位置、设备状态和紧急求助信息。","textShapes":2}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"文本框 8","text":"视障用户需要的不只是物理探路，还需要连续获取交通信号、当前位置、设备状态和紧急求助信息。","textPreview":"视障用户需要的不只是物理探路，还需要连续获取交通信号、当前位置、设备状态和紧急求助信息。","textChars":44,"textLines":1,"bbox":[102.2,101.67,1074.47,111.73]}
+{"kind":"shape","id":"sh/h4f6lw3i","slide":2,"name":"直接连接符 329","bbox":[621.27,208.73,0.93,496.93]}
+{"kind":"textbox","id":"sh/76twva5c","slide":2,"name":"文本框 21","text":"需求背景","textPreview":"需求背景","textChars":4,"textLines":1,"bbox":[468.89,25.36,341.08,61.53]}
+{"kind":"image","id":"im/98bmtkr2","slide":2,"name":"图片 3","bbox":[0,0,1280,731.43]}
+{"kind":"image","id":"im/m5knip8r","slide":2,"name":"图片 5","geometry":"roundRect","alt":"智途Android客户端首页","bbox":[66.8,242.98,480,390.96]}
+{"kind":"image","id":"im/76t4ru9c","slide":2,"name":"图片 6","geometry":"roundRect","alt":"智途Android客户端地图定位页面","bbox":[696.67,238.55,530.55,394.88]}
+{"kind":"image","id":"im/wbm5ozqt","slide":2,"name":"图片 22","bbox":[817,56.12,463,8]}
+{"kind":"image","id":"im/hcvmx4re","slide":2,"name":"图片 23","bbox":[2.36,56.69,466.53,8.37]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"痛点分析","textShapes":7}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"文本框 14","text":"痛点分析","textPreview":"痛点分析","textChars":4,"textLines":1,"bbox":[466.53,49.26,341.08,61.53]}
+{"kind":"shape","id":"sh/a9kfadwn","slide":3,"name":"矩形: 圆角 27","bbox":[56.2,172.4,344.73,506.8]}
+{"kind":"shape","id":"sh/cza94vmx","slide":3,"name":"矩形: 圆角 27","bbox":[451.6,172.4,376.87,506.8]}
+{"kind":"shape","id":"sh/3ah8rqlg","slide":3,"name":"矩形: 圆角 27","bbox":[876.13,172.4,344.73,506.8]}
+{"kind":"textbox","id":"sh/k3m1g7yp","slide":3,"name":"矩形: 圆角 30","text":"交通信号难判断","textPreview":"交通信号难判断","textChars":7,"textLines":1,"bbox":[123.07,208.53,193.4,41.13]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"矩形: 圆角 30","text":"紧急求助不及时","textPreview":"紧急求助不及时","textChars":7,"textLines":1,"bbox":[951.47,207.93,193.4,41.13]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"矩形: 圆角 30","text":"信息缺少融合","textPreview":"信息缺少融合","textChars":6,"textLines":1,"bbox":[541.8,208.53,193.4,41.13]}
+{"kind":"textbox","id":"sh/batgjixs","slide":3,"name":"文本框 28","text":"传统白手杖难以提供红绿灯等远距离视觉信息，独立过街仍需额外辅助。","textPreview":"传统白手杖难以提供红绿灯等远距离视觉信息，独立过街仍需额外辅助。","textChars":32,"textLines":1,"bbox":[88.07,275.4,281.07,155.93]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"文本框 7","text":"迷路、设备遗失或突发情况发生时，用户需要快速定位并联系预设紧急联系人。","textPreview":"迷路、设备遗失或突发情况发生时，用户需要快速定位并联系预设紧急联系人。","textChars":35,"textLines":1,"bbox":[910.93,275.4,281.07,155.93]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"文本框 8","text":"识别结果、手机定位和设备状态若彼此独立，难以形成可靠、连续的出行场景。","textPreview":"识别结果、手机定位和设备状态若彼此独立，难以形成可靠、连续的出行场景。","textChars":35,"textLines":1,"bbox":[498,275.4,281.07,155.93]}
+{"kind":"image","id":"im/4jyt0zix","slide":3,"name":"图片 11","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/547at4zi","slide":3,"name":"图片 16","bbox":[817,80.4,463,8]}
+{"kind":"image","id":"im/udwrup0v","slide":3,"name":"图片 21","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"image","id":"im/ve5sna1g","slide":3,"name":"图片 15","bbox":[87.6,445.13,281.53,204.27]}
+{"kind":"image","id":"im/gfy9wfil","slide":3,"name":"图片 9","bbox":[902.6,457.67,297.67,194.33]}
+{"kind":"image","id":"im/hg7apkj6","slide":3,"name":"图片 10","bbox":[486.87,445.07,306.6,199.13]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"总体介绍","textShapes":6}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"文本框 4","text":"总体介绍","textPreview":"总体介绍","textChars":4,"textLines":1,"bbox":[461.86,39.85,341.08,61.53]}
+{"kind":"shape","id":"sh/7ih83mlo","slide":4,"name":"直接箭头连接符 28","bbox":[815.86,297.24,141.29,119.61]}
+{"kind":"shape","id":"sh/gna9gr25","slide":4,"name":"直接箭头连接符 29","bbox":[443.73,527.83,348.78,0]}
+{"kind":"shape","id":"sh/hoja9w3q","slide":4,"name":"直接箭头连接符 33","bbox":[345.6,307.68,135.82,187.26]}
+{"kind":"textbox","id":"sh/xknyx4ja","slide":4,"name":"文本框 36","text":"杖端","textPreview":"杖端","textChars":2,"textLines":1,"bbox":[34.29,164.7,122.79,383.29]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"文本框 37","text":"APP","textPreview":"APP","textChars":3,"textLines":1,"bbox":[1165,350,100,54.4]}
+{"kind":"shape","id":"sh/bmpozed4","slide":4,"name":"云端融合卡片","bbox":[458,194,365,310]}
+{"kind":"textbox","id":"sh/qlg769wj","slide":4,"name":"云端融合标题","text":"云端融合","textPreview":"云端融合","textChars":4,"textLines":1,"bbox":[493,220,178,44]}
+{"kind":"textbox","id":"sh/0bipc3el","slide":4,"name":"云端融合内容","text":"视觉识别：YOLOv5\n场景融合：定位 + 在线状态\n受限决策：白名单指令","textPreview":"视觉识别：YOLOv5 | 场景融合：定位 + 在线状态 | 受限决策：白名单指令","textChars":37,"textLines":3,"bbox":[493,290,290,135]}
+{"kind":"textbox","id":"sh/zq9o3ydg","slide":4,"name":"云端闭环说明","text":"感知 · 传输 · 融合 · 决策 · 反馈","textPreview":"感知 · 传输 · 融合 · 决策 · 反馈","textChars":22,"textLines":1,"bbox":[493,448,290,32]}
+{"kind":"image","id":"im/1kretwra","slide":4,"name":"图片 9","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/gjixkbqp","slide":4,"name":"图片 5","bbox":[802.95,80.4,477.05,8.24]}
+{"kind":"image","id":"im/3m9gv69g","slide":4,"name":"图片 6","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"image","id":"im/2l0fm18v","slide":4,"name":"图片 25","bbox":[183.3,374.02,253.86,338.48]}
+{"kind":"image","id":"im/yt4ra9wf","slide":4,"name":"图片 22","bbox":[835.93,420.39,163.31,293.64]}
+{"kind":"image","id":"im/zud83exk","slide":4,"name":"图片 24","bbox":[1011.46,420.39,147.65,289.63]}
+{"kind":"image","id":"im/ap4r6pw3","slide":4,"name":"","alt":"DeepSeek云端大模型标识","bbox":[680,218,100,46]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"技术架构","textShapes":16}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"文本框 7","text":"技术架构","textPreview":"技术架构","textChars":4,"textLines":1,"bbox":[468.89,36.53,341.08,61.53]}
+{"kind":"shape","id":"sh/i54fmlc7","slide":5,"name":"矩形: 圆角 15","bbox":[459.18,240.79,286.56,270.17]}
+{"kind":"shape","id":"sh/j6dwfqds","slide":5,"name":"矩形: 圆角 16","bbox":[831.73,463.13,396,243.73]}
+{"kind":"shape","id":"sh/sb6xsvu9","slide":5,"name":"矩形: 圆角 17","bbox":[15.07,149.73,341.33,565.33]}
+{"kind":"textbox","id":"sh/ji5kf2ho","slide":5,"name":"矩形 34","text":"账户与认证","textPreview":"账户与认证","textChars":5,"textLines":1,"bbox":[41,375.8,131.93,47.33]}
+{"kind":"textbox","id":"sh/e1sjatgz","slide":5,"name":"矩形 37","text":"Django后端","textPreview":"Django后端","textChars":8,"textLines":1,"bbox":[873.15,663.72,107.71,84.48]}
+{"kind":"shape","id":"sh/kjqlc3ax","slide":5,"name":"直接箭头连接符 41","bbox":[988.5,621.62,82.47,0.56]}
+{"kind":"textbox","id":"sh/3md0bu94","slide":5,"name":"文本框 43","text":"AI","textPreview":"AI","textChars":2,"textLines":1,"bbox":[985.75,589.67,83.93,29.08]}
+{"kind":"textbox","id":"sh/onmhkzqp","slide":5,"name":"矩形 46","text":"融合决策","textPreview":"融合决策","textChars":4,"textLines":1,"bbox":[975.88,470.53,107.71,51.2]}
+{"kind":"textbox","id":"sh/bqx0fe9g","slide":5,"name":"矩形 47","text":"APP","textPreview":"APP","textChars":3,"textLines":1,"bbox":[115.85,136.7,109.39,51.2]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Shape 63","bbox":[774.63,389.44,23.42,42.23]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Shape 63","bbox":[775.02,426.92,23.42,42.23]}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Shape 63","bbox":[390.26,343.95,28.65,48.68]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"Shape 63","bbox":[390.73,387.16,28.65,48.68]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"文本框 13","text":"场景融合、受限决策与安全降级","textPreview":"场景融合、受限决策与安全降级","textChars":14,"textLines":1,"bbox":[848.53,515.68,366.14,35.4]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"文本框 14","text":"硬件采集图像，APP同步位置与求助信息","textPreview":"硬件采集图像，APP同步位置与求助信息","textChars":19,"textLines":1,"bbox":[29.07,88.4,340.73,61.27]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"文本框 23","text":"图像与心跳上传，指令和语音反馈","textPreview":"图像与心跳上传，指令和语音反馈","textChars":15,"textLines":1,"bbox":[482.14,521.85,240.63,67.2]}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"矩形 21","text":"ESP32-S3","textPreview":"ESP32-S3","textChars":8,"textLines":1,"bbox":[548.6,241.09,107.71,51.2]}
+{"kind":"textbox","id":"sh/3i94r61s","slide":5,"name":"矩形 25","text":"紧急求助","textPreview":"紧急求助","textChars":4,"textLines":1,"bbox":[206.57,645.05,121.99,47.33]}
+{"kind":"textbox","id":"sh/2h0ni107","slide":5,"name":"矩形 26","text":"图像采集","textPreview":"图像采集","textChars":4,"textLines":1,"bbox":[547.2,457.49,107.71,47.04]}
+{"kind":"shape","id":"sh/5o7mhcju","slide":5,"name":"矩形: 圆角 27","bbox":[847.47,100.87,398.6,352.2]}
+{"kind":"textbox","id":"sh/atcjidg7","slide":5,"name":"矩形 29","text":"定位与求助","textPreview":"定位与求助","textChars":5,"textLines":1,"bbox":[997.87,99.46,141.13,51.2]}
+{"kind":"textbox","id":"sh/kjelony9","slide":5,"name":"文本框 35","text":"融合YOLOv5识别、手机定位和导盲杖在线状态，调用DeepSeek并返回受限指令","textPreview":"融合YOLOv5识别、手机定位和导盲杖在线状态，调用DeepSeek并返回受限指令","textChars":41,"textLines":1,"bbox":[857.73,375.8,378.07,86.4]}
+{"kind":"shape","id":"sh/fid07u98","slide":5,"name":"Shape 63","bbox":[785.99,228.76,27.94,44.66]}
+{"kind":"shape","id":"sh/ehkzepsn","slide":5,"name":"Shape 63","bbox":[786.46,268.39,27.94,44.66]}
+{"kind":"textbox","id":"sh/gjmhgzqt","slide":5,"name":"矩形 42","text":"首页","textPreview":"首页","textChars":2,"textLines":1,"bbox":[206.6,375.8,131.93,47.33]}
+{"kind":"textbox","id":"sh/2l4zip8j","slide":5,"name":"矩形 44","text":"红绿灯识别","textPreview":"红绿灯识别","textChars":5,"textLines":1,"bbox":[41,634.93,152.33,85.07]}
+{"kind":"image","id":"im/6l832dkr","slide":5,"name":"图片 20","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/lkz2t836","slide":5,"name":"图片 9","bbox":[817,80.4,463,8]}
+{"kind":"image","id":"im/kj6l032l","slide":5,"name":"图片 10","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"image","id":"im/wzipcjet","slide":5,"name":"图片 28","bbox":[1068.35,537.06,130.94,131.96]}
+{"kind":"image","id":"im/x0rql4ve","slide":5,"name":"图片 30","alt":"DeepSeek云端大模型标识","bbox":[1080,642,116,54]}
+{"kind":"image","id":"im/ax07a9w3","slide":5,"name":"图片 36","bbox":[814.93,535.54,212,135]}
+{"kind":"image","id":"im/by98jedo","slide":5,"name":"图片 19","bbox":[512.28,171.81,253.86,338.48]}
+{"kind":"image","id":"im/k32pgje5","slide":5,"name":"图片 24","bbox":[50.93,431.8,130.87,217.13]}
+{"kind":"image","id":"im/l4bqpovq","slide":5,"name":"图片 31","bbox":[848.53,164.33,131.13,211.47]}
+{"kind":"image","id":"im/y107e9wz","slide":5,"name":"图片 32","bbox":[968.07,164.33,141.13,211.47]}
+{"kind":"image","id":"im/j2t8nedk","slide":5,"name":"图片 4","bbox":[181.73,184.27,126.47,204.8]}
+{"kind":"image","id":"im/8r29k3e1","slide":5,"name":"图片 22","bbox":[50.93,188.07,130.8,204.67]}
+{"kind":"image","id":"im/tsbqtovm","slide":5,"name":"图片 33","bbox":[182.53,431.8,125.67,213.27]}
+{"kind":"image","id":"im/3mxsj2xo","slide":5,"name":"图片 45","bbox":[1109.2,164.33,118.53,203.53]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"提前设置紧急联系人。触发后生成包含手机当前位置的求助短信，并跳转拨号页面，缩短求助链路。","textShapes":4}
+{"kind":"shape","id":"sh/pc76hkr2","slide":6,"name":"矩形: 圆角 8","bbox":[905.44,281.26,312.97,265.15]}
+{"kind":"textbox","id":"sh/5s721cfe","slide":6,"name":"文本框 99","text":"提前设置紧急联系人。触发后生成包含手机当前位置的求助短信，并跳转拨号页面，缩短求助链路。","textPreview":"提前设置紧急联系人。触发后生成包含手机当前位置的求助短信，并跳转拨号页面，缩短求助链路。","textChars":44,"textLines":1,"bbox":[916.54,299.76,275.4,211.53]}
+{"kind":"shape","id":"sh/j6dcr65c","slide":6,"name":"矩形 15","bbox":[479.19,667.33,252.27,54.87]}
+{"kind":"textbox","id":"sh/h4bupgn6","slide":6,"name":"文本框 9","text":"位置求助闭环","textPreview":"位置求助闭环","textChars":6,"textLines":1,"bbox":[530.2,671.53,150.24,86.4]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"文本框 11","text":"技术创新1","textPreview":"技术创新1","textChars":5,"textLines":1,"bbox":[468.89,36.53,341.08,61.53]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"Shape 63","bbox":[784.69,332.99,69.05,77.47]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Shape 63","bbox":[785.84,401.74,69.05,77.47]}
+{"kind":"shape","id":"sh/pgbul0fu","slide":6,"name":"矩形 42","bbox":[263.27,156,779.67,17.07]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"文本框 1","text":"定位短信与一键拨号","textPreview":"定位短信与一键拨号","textChars":9,"textLines":1,"bbox":[352.8,137.67,620.47,35.4]}
+{"kind":"shape","id":"sh/5svutgni","slide":6,"name":"Shape 63","bbox":[358.45,340.72,69.05,77.47]}
+{"kind":"shape","id":"sh/47mt0b6x","slide":6,"name":"Shape 63","bbox":[359.61,409.48,69.05,77.47]}
+{"kind":"image","id":"im/lczydsji","slide":6,"name":"图片 6","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/y98f2x0r","slide":6,"name":"图片 12","bbox":[817,80.4,463,8]}
+{"kind":"image","id":"im/zahgb21c","slide":6,"name":"图片 16","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"image","id":"im/c7qx0ni1","slide":6,"name":"图片 7","bbox":[489.29,201.07,232.07,454.4]}
+{"kind":"image","id":"im/d8zy9sjm","slide":6,"name":"图片 5","bbox":[57.03,209.23,254.78,458.11]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"安全反馈","textShapes":8}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"文本框 9","text":"安全反馈","textPreview":"安全反馈","textChars":4,"textLines":1,"bbox":[914.35,558.9,148.64,48.33]}
+{"kind":"shape","id":"sh/l0vuh0rm","slide":7,"name":"矩形 6","bbox":[95.07,511.33,154.4,48.33]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"文本框 11","text":"感知端","textPreview":"感知端","textChars":3,"textLines":1,"bbox":[127.67,510.6,89.07,86.4]}
+{"kind":"shape","id":"sh/1cz6hoz2","slide":7,"name":"箭头: 上 114","bbox":[699.24,299.82,78.27,157.35]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"文本框 17","text":"技术创新2","textPreview":"技术创新2","textChars":5,"textLines":1,"bbox":[468.89,36.53,341.08,61.53]}
+{"kind":"shape","id":"sh/vm58zi94","slide":7,"name":"矩形 42","bbox":[263.27,156,779.67,17.07]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"文本框 4","text":"端云协同安全闭环","textPreview":"端云协同安全闭环","textChars":8,"textLines":1,"bbox":[448,126.6,510.87,35.4]}
+{"kind":"textbox","id":"sh/e5o32lor","slide":7,"name":"矩形: 圆角 27","text":"ESP32-S3采集图像、按键和设备心跳，完成稳定联网与数据上传","textPreview":"ESP32-S3采集图像、按键和设备心跳，完成稳定联网与数据上传","textChars":32,"textLines":1,"bbox":[22.07,571.67,278.53,133.87]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"矩形 15","bbox":[429.07,495.67,121.47,48.33]}
+{"kind":"textbox","id":"sh/jedkn654","slide":7,"name":"文本框 20","text":"云端","textPreview":"云端","textChars":2,"textLines":1,"bbox":[448,495.67,102.53,48.33]}
+{"kind":"textbox","id":"sh/4fm1wb6p","slide":7,"name":"矩形: 圆角 27","text":"YOLOv5识别红绿灯，Django融合手机定位和设备在线状态","textPreview":"YOLOv5识别红绿灯，Django融合手机定位和设备在线状态","textChars":31,"textLines":1,"bbox":[359.13,573.67,278.53,133.87]}
+{"kind":"textbox","id":"sh/50v2pgna","slide":7,"name":"矩形: 圆角 27","text":"DeepSeek在白名单内选择指令；数据缺失或云端异常时自动采用本地安全策略","textPreview":"DeepSeek在白名单内选择指令；数据缺失或云端异常时自动采用本地安全策略","textChars":38,"textLines":1,"bbox":[739.27,616.33,468.47,101.4]}
+{"kind":"image","id":"im/f258v294","slide":7,"name":"图片 5","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/e1wr2xsj","slide":7,"name":"图片 18","bbox":[817,80.4,463,8]}
+{"kind":"image","id":"im/h83ql8rq","slide":7,"name":"图片 19","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"image","id":"im/w7ups3a5","slide":7,"name":"图片 8","bbox":[62.87,228.93,218.73,273.4]}
+{"kind":"image","id":"im/83yho7md","slide":7,"name":"图片 13","bbox":[293,339.33,66.13,66.13]}
+{"kind":"image","id":"im/947ixc3y","slide":7,"name":"图片 3","bbox":[358.71,292.6,297.44,163.77]}
+{"kind":"image","id":"im/m1gzmx47","slide":7,"name":"图片 23","bbox":[860.89,200.2,225.23,376.51]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"寻杖指令","textShapes":3}
+{"kind":"shape","id":"sh/el0jutor","slide":8,"name":"矩形: 圆角 116","bbox":[379.93,146.36,419.78,498.5]}
+{"kind":"shape","id":"sh/m9sb2x4v","slide":8,"name":"圆角矩形 29","bbox":[454.6,250.62,273.6,269.33]}
+{"kind":"textbox","id":"sh/idc76l07","slide":8,"name":"文本框 99","text":"寻杖指令\n双在线状态","textPreview":"寻杖指令 | 双在线状态","textChars":10,"textLines":2,"bbox":[472.25,313.59,236.43,164.05]}
+{"kind":"shape","id":"sh/5o3mxwvy","slide":8,"name":"箭头: 手杖形 120","bbox":[177.49,657.94,943.83,49.82]}
+{"kind":"shape","id":"sh/ehgvihwr","slide":8,"name":"箭头: 上 114","bbox":[352.1,233.31,75.4,141.8]}
+{"kind":"shape","id":"sh/zipwbmdc","slide":8,"name":"箭头: 上 114","bbox":[343.49,373.43,88.6,145.82]}
+{"kind":"shape","id":"sh/kfixwbe1","slide":8,"name":"箭头: 上 114","bbox":[768.31,224.46,79.27,156.82]}
+{"kind":"shape","id":"sh/lgbepgvm","slide":8,"name":"箭头: 上 114","bbox":[764.06,381.19,79.2,150.92]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"文本框 5","text":"技术创新3","textPreview":"技术创新3","textChars":5,"textLines":1,"bbox":[467.08,19.66,341.08,61.53]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"文本框 3","text":"寻杖状态监测","textPreview":"寻杖状态监测","textChars":6,"textLines":1,"bbox":[473.52,88.86,336.73,35.4]}
+{"kind":"shape","id":"sh/4vap8j69","slide":8,"name":"箭头: 手杖形 120","bbox":[165.76,116.46,967.3,57.42]}
+{"kind":"image","id":"im/rqtkve98","slide":8,"name":"图片 8","bbox":[-1.94,-5.71,1280,731.43]}
+{"kind":"image","id":"im/6pkj29sn","slide":8,"name":"图片 6","bbox":[812.24,57.43,463,8]}
+{"kind":"image","id":"im/1wv21ora","slide":8,"name":"图片 9","bbox":[1.94,53.34,466.53,8.37]}
+{"kind":"image","id":"im/gvml8jq5","slide":8,"name":"图片 4","bbox":[62.14,53.75,190.93,196.87]}
+{"kind":"image","id":"im/fudkze9k","slide":8,"name":"图片 10","bbox":[982.28,177.76,237.95,472]}
+{"kind":"image","id":"im/et43698z","slide":8,"name":"图片 13","bbox":[77.56,234.74,235.57,423.2]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"技术创新4","textShapes":4}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"文本框 15","text":"技术创新4","textPreview":"技术创新4","textChars":5,"textLines":1,"bbox":[410.13,25.49,461.11,61.53]}
+{"kind":"textbox","id":"sh/9gzml0nq","slide":9,"name":"文本框 5","text":"TalkBack无障碍交互","textPreview":"TalkBack无障碍交互","textChars":13,"textLines":1,"bbox":[257.07,113.8,736,35.27]}
+{"kind":"shape","id":"sh/p0ji9kf2","slide":9,"name":"矩形: 圆角 32","bbox":[785.73,604.91,354.93,94.4]}
+{"kind":"shape","id":"sh/do3id4fy","slide":9,"name":"矩形: 圆角 32","bbox":[130.47,600.53,409.67,94.47]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"文本框 20","text":"Android主界面","textPreview":"Android主界面","textChars":10,"textLines":1,"bbox":[137.47,611.73,384.13,67.84]}
+{"kind":"textbox","id":"sh/ml8j6p8n","slide":9,"name":"文本框 22","text":"助手与设置","textPreview":"助手与设置","textChars":5,"textLines":1,"bbox":[828.59,624.65,254.5,54.93]}
+{"kind":"image","id":"im/aho72lwb","slide":9,"name":"图片 7","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/bix8bqxw","slide":9,"name":"图片 17","bbox":[0,63.2,476.73,8]}
+{"kind":"image","id":"im/wj6p4ve1","slide":9,"name":"图片 3","bbox":[803.27,55.2,476.73,8]}
+{"kind":"image","id":"im/xkfqd0fm","slide":9,"name":"图片 6","bbox":[124.26,167.58,220.08,414.45]}
+{"kind":"image","id":"im/y5or65w7","slide":9,"name":"图片 9","bbox":[345.48,166.05,225.51,414.45]}
+{"kind":"image","id":"im/j6x8faxs","slide":9,"name":"图片 13","alt":"智途出行助手对话页面","bbox":[721.49,165.82,215.35,426.73]}
+{"kind":"image","id":"im/t0za54zu","slide":9,"name":"图片 18","alt":"智途紧急联系人设置页面","bbox":[939.23,165.19,217.55,426.73]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"视觉识别 + 手机定位 + 设备在线状态","textShapes":2}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"标题 1","placeholder":"title","text":"视觉识别 + 手机定位 + 设备在线状态\n三源融合形成结构化出行场景","textPreview":"视觉识别 + 手机定位 + 设备在线状态 | 三源融合形成结构化出行场景","textChars":34,"textLines":2,"bbox":[75.02,108.91,552,79.9]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"文本框 4","text":"技术创新5","textPreview":"技术创新5","textChars":5,"textLines":1,"bbox":[410.13,25.49,461.11,61.53]}
+{"kind":"image","id":"im/sjy90fmt","slide":10,"name":"图片 8","bbox":[0,0,1280,731.43]}
+{"kind":"image","id":"im/tk7a9k3e","slide":10,"name":"图片 5","bbox":[0,63.2,476.73,8]}
+{"kind":"image","id":"im/ulgr2p4z","slide":10,"name":"图片 6","bbox":[803.27,55.2,476.73,8]}
+{"kind":"image","id":"im/fm9sbalk","slide":10,"name":"图片 17","bbox":[438.65,185.15,224.03,346.05]}
+{"kind":"image","id":"im/fip0zylc","slide":10,"name":"图片 19","bbox":[983.74,190.34,259.25,462.47]}
+{"kind":"image","id":"im/uhgz6tkr","slide":10,"name":"图片 21","bbox":[724.49,190.34,259.25,463.56]}
+{"kind":"image","id":"im/h47i1oj2","slide":10,"name":"图片 23","bbox":[58.14,185.15,380.51,194.04]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"STOP / PROCEED / CAUTION：校验后下发","textShapes":2}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"标题 1","placeholder":"title","text":"STOP / PROCEED / CAUTION：校验后下发","textPreview":"STOP / PROCEED / CAUTION：校验后下发","textChars":30,"textLines":1,"bbox":[24.64,138.06,1018.76,63.01]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"文本框 4","text":"技术创新6","textPreview":"技术创新6","textChars":5,"textLines":1,"bbox":[410.13,25.49,461.11,61.53]}
+{"kind":"shape","id":"sh/7650nq5s","slide":11,"name":"任意多边形: 形状 21","bbox":[405.38,267.93,484.36,138.8]}
+{"kind":"image","id":"im/5gbaxk3i","slide":11,"name":"图片 9","bbox":[0,0,1280,731.43]}
+{"kind":"image","id":"im/6hkrqp43","slide":11,"name":"图片 5","bbox":[0,63.2,476.73,8]}
+{"kind":"image","id":"im/7itszulo","slide":11,"name":"图片 6","bbox":[803.27,55.2,476.73,8]}
+{"kind":"image","id":"im/sj29szm9","slide":11,"name":"图片 17","bbox":[916.53,313.67,297.07,148.6]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":""}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"方案对比","textShapes":6}
+{"kind":"textbox","id":"sh/sb2lcnmd","slide":12,"name":"文本框 6","text":"方案对比","textPreview":"方案对比","textChars":4,"textLines":1,"bbox":[468.89,36.53,341.08,61.53]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"文本框 10","text":"方案优势","textPreview":"方案优势","textChars":4,"textLines":1,"bbox":[1003.59,144.9,177.87,54.93]}
+{"kind":"textbox","id":"sh/atc7epon","slide":12,"name":"文本框 11","text":"闭环更完整","textPreview":"闭环更完整","textChars":5,"textLines":1,"bbox":[951.91,470,276.52,61.39]}
+{"kind":"textbox","id":"sh/bulo7u58","slide":12,"name":"文本框 12","text":"低成本\n模块化","textPreview":"低成本 | 模块化","textChars":7,"textLines":2,"bbox":[1010,395.68,158.55,74.32]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"文本框 15","text":"无障碍交互","textPreview":"无障碍交互","textChars":5,"textLines":1,"bbox":[963.59,317.24,240.01,61.39]}
+{"kind":"textbox","id":"sh/nq1o3a5w","slide":12,"name":"文本框 16","text":"安全","textPreview":"安全","textChars":2,"textLines":1,"bbox":[1049.64,262.31,79.28,42.01]}
+{"kind":"table","id":"tb/y9wzetwf","slide":12,"name":"表格 4","rows":5,"cols":4,"preview":"能力维度 | 本系统 | 常规电子导盲杖 | 单一视觉APP","bbox":[71.08,117.13,781.56,530.87]}
+{"kind":"image","id":"im/vytoz6lk","slide":12,"name":"图片 2","bbox":[0,-5.71,1280,731.43]}
+{"kind":"image","id":"im/yt8ry9on","slide":12,"name":"图片 7","bbox":[817,80.4,463,8]}
+{"kind":"image","id":"im/zuhs7e58","slide":12,"name":"图片 8","bbox":[-4.67,80.03,466.53,8.37]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":""}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"视觉感知与云端大模型","textShapes":2}
+{"kind":"shape","id":"sh/bq9orito","slide":13,"name":"Freeform 3","bbox":[850.56,14.62,654.63,683.23]}
+{"kind":"textbox","id":"sh/u9ofyp43","slide":13,"name":"文本框 12","text":"视觉感知与云端大模型\n智能导盲辅助系统","textPreview":"视觉感知与云端大模型 | 智能导盲辅助系统","textChars":19,"textLines":2,"bbox":[121.69,159.58,877.87,234.24]}
+{"kind":"textbox","id":"sh/t8fy5k3i","slide":13,"name":"文本框 13","text":"智行无碍，途达万家","textPreview":"智行无碍，途达万家","textChars":9,"textLines":1,"bbox":[48.9,616.4,833.97,92.8]}
+{"kind":"image","id":"im/nah0vqt0","slide":13,"name":"图片 11","geometry":"teardrop","bbox":[614.73,112.07,681.4,532.8]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":""}

@@ -1,0 +1,41 @@
+# Django核心
+Django==4.1.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+Pillow==9.5.0
+mysqlclient==2.1.1
+requests
+
+# YOLOv5相关
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.4.50
+gitpython>=3.1.30
+setuptools<81
+opencv-python
+numpy==1.24.3
+tqdm
+matplotlib
+seaborn
+pandas
+
+# 开发工具
+black
+isort
+flake8
+pylint
+pytest
+pytest-django
+
+# 部署工具
+gunicorn
+uvicorn
+whitenoise
+python-dotenv
+
+# 安全工具
+django-cors-headers
+django-sslserver
+
+# 数据库工具
+django-debug-toolbar 

@@ -1,0 +1,13 @@
+train: ../datasets/study/images/train2017
+val: ../datasets/study/images/val2017
+#test: ../datasets/study/test/images
+
+nc: 1
+names: ['apple']
+
+roboflow:
+  workspace: uni-itoj5
+  project: apple_detect-ciamx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/uni-itoj5/apple_detect-ciamx/dataset/1
