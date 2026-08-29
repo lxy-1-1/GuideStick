@@ -29,16 +29,36 @@ DEEPSEEK_MODEL = os.getenv(
 )
 
 
+def env_bool(name, default=False):
+    value = os.getenv(name)
+    if value is None:
+        return default
+    return value.strip().lower() in {"1", "true", "yes", "on"}
+
+
+def env_list(name, default):
+    value = os.getenv(name)
+    if value is None:
+        return default
+    return [item.strip() for item in value.split(",") if item.strip()]
+
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-pg7%8h!iz$%j!&t+v+js@ajc)0q)gh0ns&2x%xa1^zrn5m&i!l'
+SECRET_KEY = os.getenv(
+    "DJANGO_SECRET_KEY",
+    "django-insecure-change-me-before-production",
+)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = env_bool("DJANGO_DEBUG", default=True)
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = env_list(
+    "DJANGO_ALLOWED_HOSTS",
+    ["localhost", "127.0.0.1", "[::1]"],
+)
 
 
 # Application definition
@@ -90,16 +110,24 @@ WSGI_APPLICATION = 'GuideSticks.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        "ENGINE": "django.db.backends.mysql",
-        'NAME': 'guidesticks',
-        'USER': 'guidesticks',
-        'PASSWORD': '123456',
-        'HOST': 'localhost',
-        'PORT': 3306,
+if env_bool("DJANGO_USE_SQLITE", default=False):
+    DATABASES = {
+        "default": {
+            "ENGINE": "django.db.backends.sqlite3",
+            "NAME": BASE_DIR / "db.sqlite3",
+        }
     }
-}
+else:
+    DATABASES = {
+        "default": {
+            "ENGINE": os.getenv("DJANGO_DB_ENGINE", "django.db.backends.mysql"),
+            "NAME": os.getenv("DJANGO_DB_NAME", "guidesticks"),
+            "USER": os.getenv("DJANGO_DB_USER", "guidesticks"),
+            "PASSWORD": os.getenv("DJANGO_DB_PASSWORD", ""),
+            "HOST": os.getenv("DJANGO_DB_HOST", "127.0.0.1"),
+            "PORT": os.getenv("DJANGO_DB_PORT", "3306"),
+        }
+    }
 
 
 # Password validation

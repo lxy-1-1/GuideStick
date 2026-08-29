@@ -46,11 +46,12 @@ cd 02_backend\GuideSticks\GuideSticks
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+Copy-Item .env.example .env
 python manage.py migrate
 python manage.py runserver
 ```
 
-生产环境请通过环境变量配置 Django 密钥、数据库和 DeepSeek 服务；不要把任何密钥写入代码或提交到仓库。详细部署说明见 [后端 README](02_backend/GuideSticks/GuideSticks/README.md)。
+`.env.example` 默认启用 SQLite，适合本地体验；生产环境请改用独立 MySQL 并配置 Django 密钥、数据库和 DeepSeek 服务。不要把任何密钥写入代码或提交到仓库。详细部署说明见 [后端 README](02_backend/GuideSticks/GuideSticks/README.md)。
 
 ### Android 客户端
 

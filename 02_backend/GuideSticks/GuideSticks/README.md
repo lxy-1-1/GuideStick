@@ -114,7 +114,13 @@ python manage.py runserver
 
 ## 配置建议（2026-04）
 
-后端已支持通过环境变量配置关键参数，推荐在生产环境使用：
+复制 `.env.example` 为 `.env` 后再按环境修改。`.env` 已被 Git 忽略，不能提交：
+
+```bash
+cp .env.example .env
+```
+
+后端通过环境变量配置关键参数，生产环境请使用独立的密钥和数据库密码：
 
 ```bash
 # Django
@@ -131,14 +137,14 @@ DJANGO_DB_HOST=127.0.0.1
 DJANGO_DB_PORT=3306
 ```
 
-测试场景默认自动使用 SQLite（避免依赖外部 MySQL），你也可以手动开启：
+本地开发可启用 SQLite，避免依赖外部 MySQL：
 
 ```bash
 DJANGO_USE_SQLITE=true
 ```
 
-运行测试：
+运行测试时使用内存 SQLite 设置：
 
 ```bash
-python manage.py test
+DJANGO_SETTINGS_MODULE=GuideSticks.test_settings python manage.py test
 ```
